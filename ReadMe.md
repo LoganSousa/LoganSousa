@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  Dev Logan Sousa
 🤓 Sou Desenvolvedor Front end;<br>🤑 Estou a procura de Estágio;<br>🚀 Conhecimentos sempre em crescimento;<br>👾 Faço faculdade de ADS;
 
 
